@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Radha aka @jradha11 on github!
-- 👀 I’m specially interested in engineering/implemetation part of any problem statement and often give my unsolicited opinion on improving the solution.
-- 🌱 I’m currently deep diving into the field of cloud, working with AWS and getting my hands dirty with terraform.
-- 🎓 I'm a chemical engineer by degree but a software engineer by profession.
-- 🏢 I'm working as a software engineer at JP Morgan Chase & Co.
-- 📫 Feel free to reach out to me through my website https://radhajayaraman.com
+
